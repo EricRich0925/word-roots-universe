@@ -1,1 +1,1372 @@
-{"prefixes":[{"form":"a-/an-","meaning_cn":"没有、无","meaning_en":"not, without","origin":"Greek"},{"form":"ab-","meaning_cn":"离开、相反","meaning_en":"away from","origin":"Latin"},{"form":"ad-","meaning_cn":"向、朝","meaning_en":"to, toward","origin":"Latin"},{"form":"ante-","meaning_cn":"在前","meaning_en":"before","origin":"Latin"},{"form":"anti-","meaning_cn":"反对","meaning_en":"against","origin":"Greek"},{"form":"auto-","meaning_cn":"自己、自动","meaning_en":"self","origin":"Greek"},{"form":"bi-","meaning_cn":"二、双","meaning_en":"two","origin":"Latin"},{"form":"circum-","meaning_cn":"围绕","meaning_en":"around","origin":"Latin"},{"form":"co-/com-/con-","meaning_cn":"共同、一起","meaning_en":"together, with","origin":"Latin"},{"form":"contra-","meaning_cn":"反对","meaning_en":"against","origin":"Latin"},{"form":"de-","meaning_cn":"向下、除去","meaning_en":"down, away, remove","origin":"Latin"},{"form":"dis-","meaning_cn":"不、分离","meaning_en":"not, apart","origin":"Latin"},{"form":"en-/em-","meaning_cn":"使成为、进入","meaning_en":"cause to be, put into","origin":"Latin"},{"form":"ex-","meaning_cn":"出、向外","meaning_en":"out of","origin":"Latin"},{"form":"extra-","meaning_cn":"超出、额外","meaning_en":"beyond, extra","origin":"Latin"},{"form":"fore-","meaning_cn":"在前","meaning_en":"before","origin":"English"},{"form":"hyper-","meaning_cn":"超过、过度","meaning_en":"over, excessive","origin":"Greek"},{"form":"hypo-","meaning_cn":"低于、不足","meaning_en":"under, below","origin":"Greek"},{"form":"il-/im-/in-/ir-","meaning_cn":"不、无","meaning_en":"not","origin":"Latin"},{"form":"in-","meaning_cn":"向内、进入","meaning_en":"into, in","origin":"Latin"},{"form":"inter-","meaning_cn":"在中间、相互","meaning_en":"between, among","origin":"Latin"},{"form":"intra-","meaning_cn":"在内、内部","meaning_en":"within","origin":"Latin"},{"form":"micro-","meaning_cn":"小、微","meaning_en":"small","origin":"Greek"},{"form":"mis-","meaning_cn":"错误","meaning_en":"wrongly","origin":"English"},{"form":"mono-","meaning_cn":"单一","meaning_en":"one, single","origin":"Greek"},{"form":"multi-","meaning_cn":"多","meaning_en":"many","origin":"Latin"},{"form":"non-","meaning_cn":"非、不","meaning_en":"not","origin":"Latin"},{"form":"over-","meaning_cn":"过度、在上","meaning_en":"over, too much","origin":"English"},{"form":"peri-","meaning_cn":"围绕","meaning_en":"around","origin":"Greek"},{"form":"post-","meaning_cn":"在后","meaning_en":"after","origin":"Latin"},{"form":"pre-","meaning_cn":"在前、预先","meaning_en":"before","origin":"Latin"},{"form":"pro-","meaning_cn":"向前、赞成","meaning_en":"forward, in favor of","origin":"Latin"},{"form":"pseudo-","meaning_cn":"假、伪","meaning_en":"false","origin":"Greek"},{"form":"re-","meaning_cn":"再、重新、回","meaning_en":"again, back","origin":"Latin"},{"form":"retro-","meaning_cn":"向后、回顾","meaning_en":"backward","origin":"Latin"},{"form":"semi-","meaning_cn":"半","meaning_en":"half","origin":"Latin"},{"form":"sub-","meaning_cn":"在下、次要","meaning_en":"under, below","origin":"Latin"},{"form":"super-","meaning_cn":"超级、在上","meaning_en":"above, beyond","origin":"Latin"},{"form":"sur-","meaning_cn":"超过","meaning_en":"over, beyond","origin":"Latin"},{"form":"syn-","meaning_cn":"共同、一起","meaning_en":"together, with","origin":"Greek"},{"form":"tele-","meaning_cn":"远","meaning_en":"far, distant","origin":"Greek"},{"form":"trans-","meaning_cn":"横过、贯穿","meaning_en":"across, through","origin":"Latin"},{"form":"tri-","meaning_cn":"三","meaning_en":"three","origin":"Latin"},{"form":"un-","meaning_cn":"不、相反","meaning_en":"not, reverse","origin":"English"},{"form":"under-","meaning_cn":"在下、不足","meaning_en":"under, below","origin":"English"},{"form":"uni-","meaning_cn":"单一","meaning_en":"one","origin":"Latin"}],"roots":[{"form":"act","meaning_cn":"做、行动","meaning_en":"do, act","origin":"Latin"},{"form":"ag","meaning_cn":"做、驱使","meaning_en":"do, drive","origin":"Latin"},{"form":"alt","meaning_cn":"高","meaning_en":"high","origin":"Latin"},{"form":"am","meaning_cn":"爱","meaning_en":"love","origin":"Latin"},{"form":"anim","meaning_cn":"生命、精神","meaning_en":"life, spirit","origin":"Latin"},{"form":"ann/enn","meaning_cn":"年","meaning_en":"year","origin":"Latin"},{"form":"aqu","meaning_cn":"水","meaning_en":"water","origin":"Latin"},{"form":"arch","meaning_cn":"统治、首要","meaning_en":"rule, chief","origin":"Greek"},{"form":"aud","meaning_cn":"听","meaning_en":"hear","origin":"Latin"},{"form":"bell","meaning_cn":"战争","meaning_en":"war","origin":"Latin"},{"form":"bio","meaning_cn":"生命","meaning_en":"life","origin":"Greek"},{"form":"brev","meaning_cn":"短","meaning_en":"short","origin":"Latin"},{"form":"cad/cas","meaning_cn":"落下","meaning_en":"fall","origin":"Latin"},{"form":"cap","meaning_cn":"头、拿","meaning_en":"head, take","origin":"Latin"},{"form":"carn","meaning_cn":"肉","meaning_en":"flesh","origin":"Latin"},{"form":"ceed/cess","meaning_cn":"走、行","meaning_en":"go","origin":"Latin"},{"form":"cept/ceiv","meaning_cn":"拿、取","meaning_en":"take","origin":"Latin"},{"form":"cert","meaning_cn":"确定","meaning_en":"sure","origin":"Latin"},{"form":"chron","meaning_cn":"时间","meaning_en":"time","origin":"Greek"},{"form":"cid/cis","meaning_cn":"切、杀","meaning_en":"cut, kill","origin":"Latin"},{"form":"claim","meaning_cn":"喊叫","meaning_en":"shout, cry out","origin":"Latin"},{"form":"clin","meaning_cn":"倾斜","meaning_en":"lean","origin":"Latin"},{"form":"cogn","meaning_cn":"认识、知道","meaning_en":"know","origin":"Latin"},{"form":"cord","meaning_cn":"心","meaning_en":"heart","origin":"Latin"},{"form":"corpor","meaning_cn":"身体","meaning_en":"body","origin":"Latin"},{"form":"cred","meaning_cn":"相信","meaning_en":"believe, trust","origin":"Latin"},{"form":"cur","meaning_cn":"跑、关心","meaning_en":"run, care","origin":"Latin"},{"form":"cycl","meaning_cn":"圆、环","meaning_en":"circle","origin":"Greek"},{"form":"dem","meaning_cn":"人民","meaning_en":"people","origin":"Greek"},{"form":"dict","meaning_cn":"说","meaning_en":"say, speak","origin":"Latin"},{"form":"doc","meaning_cn":"教","meaning_en":"teach","origin":"Latin"},{"form":"don","meaning_cn":"给予","meaning_en":"give","origin":"Latin"},{"form":"duc","meaning_cn":"引导","meaning_en":"lead","origin":"Latin"},{"form":"fac","meaning_cn":"做、制造","meaning_en":"make, do","origin":"Latin"},{"form":"fall","meaning_cn":"欺骗","meaning_en":"deceive","origin":"Latin"},{"form":"fer","meaning_cn":"带来、忍受","meaning_en":"carry, bear","origin":"Latin"},{"form":"fid","meaning_cn":"相信","meaning_en":"trust, faith","origin":"Latin"},{"form":"fin","meaning_cn":"结束、界限","meaning_en":"end, limit","origin":"Latin"},{"form":"flex","meaning_cn":"弯曲","meaning_en":"bend","origin":"Latin"},{"form":"flict","meaning_cn":"打击","meaning_en":"strike","origin":"Latin"},{"form":"flu","meaning_cn":"流","meaning_en":"flow","origin":"Latin"},{"form":"form","meaning_cn":"形状、形式","meaning_en":"shape, form","origin":"Latin"},{"form":"fort","meaning_cn":"力量、幸运","meaning_en":"strong, fortune","origin":"Latin"},{"form":"fract","meaning_cn":"碎、破","meaning_en":"break","origin":"Latin"},{"form":"gen","meaning_cn":"产生、种类","meaning_en":"produce, kind","origin":"Latin"},{"form":"grad","meaning_cn":"走、级","meaning_en":"step, grade","origin":"Latin"},{"form":"graph","meaning_cn":"写、画","meaning_en":"write","origin":"Greek"},{"form":"grat","meaning_cn":"感谢、喜悦","meaning_en":"pleasing, thankful","origin":"Latin"},{"form":"grav","meaning_cn":"重、严肃","meaning_en":"heavy, serious","origin":"Latin"},{"form":"greg","meaning_cn":"群体","meaning_en":"group, flock","origin":"Latin"},{"form":"habit","meaning_cn":"居住、持有","meaning_en":"live, have","origin":"Latin"},{"form":"her","meaning_cn":"黏附","meaning_en":"stick","origin":"Latin"},{"form":"jac/ject","meaning_cn":"投掷","meaning_en":"throw","origin":"Latin"},{"form":"jud","meaning_cn":"判断","meaning_en":"judge","origin":"Latin"},{"form":"junct","meaning_cn":"连接","meaning_en":"join","origin":"Latin"},{"form":"lect","meaning_cn":"选、读","meaning_en":"choose, read","origin":"Latin"},{"form":"leg","meaning_cn":"法律、读","meaning_en":"law, read","origin":"Latin"},{"form":"liber","meaning_cn":"自由","meaning_en":"free","origin":"Latin"},{"form":"loc","meaning_cn":"地方","meaning_en":"place","origin":"Latin"},{"form":"log","meaning_cn":"言语、学科","meaning_en":"word, study","origin":"Greek"},{"form":"luc","meaning_cn":"光","meaning_en":"light","origin":"Latin"},{"form":"mand","meaning_cn":"命令","meaning_en":"order, command","origin":"Latin"},{"form":"man","meaning_cn":"手","meaning_en":"hand","origin":"Latin"},{"form":"mem","meaning_cn":"记忆","meaning_en":"remember","origin":"Latin"},{"form":"merg","meaning_cn":"沉没、浸入","meaning_en":"sink, plunge","origin":"Latin"},{"form":"migr","meaning_cn":"迁移","meaning_en":"move","origin":"Latin"},{"form":"mit","meaning_cn":"送","meaning_en":"send","origin":"Latin"},{"form":"mob/mot","meaning_cn":"动","meaning_en":"move","origin":"Latin"},{"form":"mod","meaning_cn":"方式、模式","meaning_en":"manner, measure","origin":"Latin"},{"form":"mon","meaning_cn":"告诫、提醒","meaning_en":"warn, advise","origin":"Latin"},{"form":"morph","meaning_cn":"形状","meaning_en":"shape, form","origin":"Greek"},{"form":"mort","meaning_cn":"死","meaning_en":"death","origin":"Latin"},{"form":"nat","meaning_cn":"出生","meaning_en":"born","origin":"Latin"},{"form":"nav","meaning_cn":"船、航行","meaning_en":"ship","origin":"Latin"},{"form":"neg","meaning_cn":"否认","meaning_en":"deny","origin":"Latin"},{"form":"nomin","meaning_cn":"名字","meaning_en":"name","origin":"Latin"},{"form":"nov","meaning_cn":"新","meaning_en":"new","origin":"Latin"},{"form":"numer","meaning_cn":"数字","meaning_en":"number","origin":"Latin"},{"form":"oper","meaning_cn":"工作","meaning_en":"work","origin":"Latin"},{"form":"pac","meaning_cn":"和平","meaning_en":"peace","origin":"Latin"},{"form":"par","meaning_cn":"平等、准备","meaning_en":"equal, prepare","origin":"Latin"},{"form":"path","meaning_cn":"感情、疾病","meaning_en":"feeling, suffering","origin":"Greek"},{"form":"ped","meaning_cn":"脚、儿童","meaning_en":"foot, child","origin":"Latin/Greek"},{"form":"pel","meaning_cn":"推、驱","meaning_en":"push, drive","origin":"Latin"},{"form":"pend","meaning_cn":"悬挂、花费","meaning_en":"hang, weigh","origin":"Latin"},{"form":"pet","meaning_cn":"寻求、追求","meaning_en":"seek","origin":"Latin"},{"form":"phon","meaning_cn":"声音","meaning_en":"sound","origin":"Greek"},{"form":"phot","meaning_cn":"光","meaning_en":"light","origin":"Greek"},{"form":"plac","meaning_cn":"平静、取悦","meaning_en":"calm, please","origin":"Latin"},{"form":"pli","meaning_cn":"折叠","meaning_en":"fold","origin":"Latin"},{"form":"pon/pos","meaning_cn":"放、放置","meaning_en":"put, place","origin":"Latin"},{"form":"port","meaning_cn":"搬运、港口","meaning_en":"carry","origin":"Latin"},{"form":"press","meaning_cn":"压","meaning_en":"press","origin":"Latin"},{"form":"prim","meaning_cn":"第一","meaning_en":"first","origin":"Latin"},{"form":"psych","meaning_cn":"心灵","meaning_en":"mind","origin":"Greek"},{"form":"quest","meaning_cn":"问、寻求","meaning_en":"ask, seek","origin":"Latin"},{"form":"radi","meaning_cn":"光线、辐射","meaning_en":"ray","origin":"Latin"},{"form":"rect","meaning_cn":"正直、正确","meaning_en":"straight, right","origin":"Latin"},{"form":"rupt","meaning_cn":"破裂","meaning_en":"break","origin":"Latin"},{"form":"sanct","meaning_cn":"神圣","meaning_en":"holy","origin":"Latin"},{"form":"sci","meaning_cn":"知道","meaning_en":"know","origin":"Latin"},{"form":"scrib/script","meaning_cn":"写","meaning_en":"write","origin":"Latin"},{"form":"sect","meaning_cn":"切、割","meaning_en":"cut","origin":"Latin"},{"form":"sens/sent","meaning_cn":"感觉","meaning_en":"feel, sense","origin":"Latin"},{"form":"sequ","meaning_cn":"跟随","meaning_en":"follow","origin":"Latin"},{"form":"serv","meaning_cn":"服务、保存","meaning_en":"serve, keep","origin":"Latin"},{"form":"sign","meaning_cn":"标记、符号","meaning_en":"sign, mark","origin":"Latin"},{"form":"simil","meaning_cn":"相似","meaning_en":"similar","origin":"Latin"},{"form":"soc","meaning_cn":"社会、伙伴","meaning_en":"society, companion","origin":"Latin"},{"form":"solv","meaning_cn":"解决、松开","meaning_en":"loosen, solve","origin":"Latin"},{"form":"spect","meaning_cn":"看","meaning_en":"look","origin":"Latin"},{"form":"spir","meaning_cn":"呼吸、精神","meaning_en":"breathe, spirit","origin":"Latin"},{"form":"stat","meaning_cn":"站立、状态","meaning_en":"stand, state","origin":"Latin"},{"form":"struct","meaning_cn":"建造","meaning_en":"build","origin":"Latin"},{"form":"sum","meaning_cn":"最高、取","meaning_en":"highest, take","origin":"Latin"},{"form":"tact","meaning_cn":"触摸","meaning_en":"touch","origin":"Latin"},{"form":"tempor","meaning_cn":"时间","meaning_en":"time","origin":"Latin"},{"form":"tend","meaning_cn":"伸展、趋向","meaning_en":"stretch, tend","origin":"Latin"},{"form":"term","meaning_cn":"界限、终点","meaning_en":"limit, end","origin":"Latin"},{"form":"text","meaning_cn":"编织、文本","meaning_en":"weave","origin":"Latin"},{"form":"therm","meaning_cn":"热","meaning_en":"heat","origin":"Greek"},{"form":"tort","meaning_cn":"扭曲","meaning_en":"twist","origin":"Latin"},{"form":"tract","meaning_cn":"拉、拖","meaning_en":"pull, draw","origin":"Latin"},{"form":"trib","meaning_cn":"给予","meaning_en":"give","origin":"Latin"},{"form":"turb","meaning_cn":"搅动、混乱","meaning_en":"stir, confusion","origin":"Latin"},{"form":"vac","meaning_cn":"空","meaning_en":"empty","origin":"Latin"},{"form":"val","meaning_cn":"价值、强壮","meaning_en":"value, strong","origin":"Latin"},{"form":"ven","meaning_cn":"来","meaning_en":"come","origin":"Latin"},{"form":"ver","meaning_cn":"真实","meaning_en":"true","origin":"Latin"},{"form":"verb","meaning_cn":"词语","meaning_en":"word","origin":"Latin"},{"form":"vers","meaning_cn":"转","meaning_en":"turn","origin":"Latin"},{"form":"vid/vis","meaning_cn":"看","meaning_en":"see","origin":"Latin"},{"form":"vinc","meaning_cn":"胜利、征服","meaning_en":"conquer","origin":"Latin"},{"form":"viv","meaning_cn":"活、生活","meaning_en":"live","origin":"Latin"},{"form":"voc","meaning_cn":"叫喊、声音","meaning_en":"call, voice","origin":"Latin"},{"form":"vol","meaning_cn":"意志、意愿","meaning_en":"will","origin":"Latin"},{"form":"volv","meaning_cn":"卷、转","meaning_en":"roll","origin":"Latin"}],"suffixes":[{"form":"-able/-ible","meaning_cn":"能够……的","meaning_en":"able to be","origin":"Latin"},{"form":"-age","meaning_cn":"集合、费用","meaning_en":"collection, charge","origin":"Latin"},{"form":"-al/-ial","meaning_cn":"与……有关的","meaning_en":"relating to","origin":"Latin"},{"form":"-ance/-ence","meaning_cn":"状态、性质","meaning_en":"state, quality","origin":"Latin"},{"form":"-ant/-ent","meaning_cn":"……的人或物","meaning_en":"person or thing that","origin":"Latin"},{"form":"-ation/-tion","meaning_cn":"行为、结果","meaning_en":"action, result","origin":"Latin"},{"form":"-ion/-sion","meaning_cn":"行为、状态","meaning_en":"act, state","origin":"Latin"},{"form":"-cy","meaning_cn":"状态、性质","meaning_en":"state, quality","origin":"Latin"},{"form":"-dom","meaning_cn":"领域、状态","meaning_en":"realm, state","origin":"English"},{"form":"-eer","meaning_cn":"……的人","meaning_en":"person concerned with","origin":"Latin"},{"form":"-er/-or","meaning_cn":"……的人或物","meaning_en":"person or thing that","origin":"Latin"},{"form":"-est","meaning_cn":"最","meaning_en":"most","origin":"English"},{"form":"-ette","meaning_cn":"小","meaning_en":"small","origin":"French"},{"form":"-ful","meaning_cn":"充满……的","meaning_en":"full of","origin":"English"},{"form":"-hood","meaning_cn":"状态、身份","meaning_en":"state, condition","origin":"English"},{"form":"-ic","meaning_cn":"与……有关的","meaning_en":"relating to","origin":"Greek"},{"form":"-ify","meaning_cn":"使成为","meaning_en":"to make","origin":"Latin"},{"form":"-ism","meaning_cn":"主义、学说","meaning_en":"doctrine, belief","origin":"Greek"},{"form":"-ist","meaning_cn":"……的人","meaning_en":"person who","origin":"Greek"},{"form":"-ity","meaning_cn":"状态、性质","meaning_en":"state, quality","origin":"Latin"},{"form":"-ive","meaning_cn":"倾向于……的","meaning_en":"tending to","origin":"Latin"},{"form":"-ize","meaning_cn":"使成为","meaning_en":"to make","origin":"Greek"},{"form":"-less","meaning_cn":"没有……的","meaning_en":"without","origin":"English"},{"form":"-ly","meaning_cn":"以……方式","meaning_en":"in the manner of","origin":"English"},{"form":"-ment","meaning_cn":"结果、行为","meaning_en":"result, action","origin":"Latin"},{"form":"-ness","meaning_cn":"状态、性质","meaning_en":"state, quality","origin":"English"},{"form":"-ous","meaning_cn":"充满……的","meaning_en":"full of","origin":"Latin"},{"form":"-ship","meaning_cn":"状态、身份","meaning_en":"state, office","origin":"English"},{"form":"-th","meaning_cn":"名词（抽象）","meaning_en":"abstract noun","origin":"English"},{"form":"-ty","meaning_cn":"状态、性质","meaning_en":"state, quality","origin":"Latin"},{"form":"-ure","meaning_cn":"结果、行为","meaning_en":"result, action","origin":"Latin"},{"form":"-ward","meaning_cn":"向……方向","meaning_en":"toward","origin":"English"},{"form":"-y","meaning_cn":"充满……的、有点","meaning_en":"full of, somewhat","origin":"English"}]}
+{
+ "prefixes": [
+  {
+   "form": "a-/an-",
+   "meaning_cn": "没有、无",
+   "meaning_en": "not, without",
+   "origin": "Greek"
+  },
+  {
+   "form": "ab-",
+   "meaning_cn": "离开、相反",
+   "meaning_en": "away from",
+   "origin": "Latin"
+  },
+  {
+   "form": "ad-",
+   "meaning_cn": "向、朝",
+   "meaning_en": "to, toward",
+   "origin": "Latin",
+   "variants": [
+    "ac-",
+    "at-",
+    "as-",
+    "ap-",
+    "ar-",
+    "af-",
+    "ag-"
+   ]
+  },
+  {
+   "form": "ante-",
+   "meaning_cn": "在前",
+   "meaning_en": "before",
+   "origin": "Latin"
+  },
+  {
+   "form": "anti-",
+   "meaning_cn": "反对",
+   "meaning_en": "against",
+   "origin": "Greek"
+  },
+  {
+   "form": "auto-",
+   "meaning_cn": "自己、自动",
+   "meaning_en": "self",
+   "origin": "Greek"
+  },
+  {
+   "form": "bi-",
+   "meaning_cn": "二、双",
+   "meaning_en": "two",
+   "origin": "Latin"
+  },
+  {
+   "form": "circum-",
+   "meaning_cn": "围绕",
+   "meaning_en": "around",
+   "origin": "Latin"
+  },
+  {
+   "form": "co-/com-/con-",
+   "meaning_cn": "共同、一起",
+   "meaning_en": "together, with",
+   "origin": "Latin",
+   "variants": [
+    "col-",
+    "cor-"
+   ]
+  },
+  {
+   "form": "contra-",
+   "meaning_cn": "反对",
+   "meaning_en": "against",
+   "origin": "Latin"
+  },
+  {
+   "form": "de-",
+   "meaning_cn": "向下、除去",
+   "meaning_en": "down, away, remove",
+   "origin": "Latin"
+  },
+  {
+   "form": "dis-",
+   "meaning_cn": "不、分离",
+   "meaning_en": "not, apart",
+   "origin": "Latin",
+   "variants": [
+    "dif-"
+   ]
+  },
+  {
+   "form": "en-/em-",
+   "meaning_cn": "使成为、进入",
+   "meaning_en": "cause to be, put into",
+   "origin": "Latin"
+  },
+  {
+   "form": "ex-",
+   "meaning_cn": "出、向外",
+   "meaning_en": "out of",
+   "origin": "Latin",
+   "variants": [
+    "ef-"
+   ]
+  },
+  {
+   "form": "extra-",
+   "meaning_cn": "超出、额外",
+   "meaning_en": "beyond, extra",
+   "origin": "Latin"
+  },
+  {
+   "form": "fore-",
+   "meaning_cn": "在前",
+   "meaning_en": "before",
+   "origin": "English"
+  },
+  {
+   "form": "hyper-",
+   "meaning_cn": "超过、过度",
+   "meaning_en": "over, excessive",
+   "origin": "Greek"
+  },
+  {
+   "form": "hypo-",
+   "meaning_cn": "低于、不足",
+   "meaning_en": "under, below",
+   "origin": "Greek"
+  },
+  {
+   "form": "il-/im-/in-/ir-",
+   "meaning_cn": "不、无",
+   "meaning_en": "not",
+   "origin": "Latin"
+  },
+  {
+   "form": "in-",
+   "meaning_cn": "向内、进入",
+   "meaning_en": "into, in",
+   "origin": "Latin"
+  },
+  {
+   "form": "inter-",
+   "meaning_cn": "在中间、相互",
+   "meaning_en": "between, among",
+   "origin": "Latin"
+  },
+  {
+   "form": "intra-",
+   "meaning_cn": "在内、内部",
+   "meaning_en": "within",
+   "origin": "Latin"
+  },
+  {
+   "form": "micro-",
+   "meaning_cn": "小、微",
+   "meaning_en": "small",
+   "origin": "Greek"
+  },
+  {
+   "form": "mis-",
+   "meaning_cn": "错误",
+   "meaning_en": "wrongly",
+   "origin": "English"
+  },
+  {
+   "form": "mono-",
+   "meaning_cn": "单一",
+   "meaning_en": "one, single",
+   "origin": "Greek"
+  },
+  {
+   "form": "multi-",
+   "meaning_cn": "多",
+   "meaning_en": "many",
+   "origin": "Latin"
+  },
+  {
+   "form": "non-",
+   "meaning_cn": "非、不",
+   "meaning_en": "not",
+   "origin": "Latin"
+  },
+  {
+   "form": "over-",
+   "meaning_cn": "过度、在上",
+   "meaning_en": "over, too much",
+   "origin": "English"
+  },
+  {
+   "form": "peri-",
+   "meaning_cn": "围绕",
+   "meaning_en": "around",
+   "origin": "Greek"
+  },
+  {
+   "form": "post-",
+   "meaning_cn": "在后",
+   "meaning_en": "after",
+   "origin": "Latin"
+  },
+  {
+   "form": "pre-",
+   "meaning_cn": "在前、预先",
+   "meaning_en": "before",
+   "origin": "Latin"
+  },
+  {
+   "form": "pro-",
+   "meaning_cn": "向前、赞成",
+   "meaning_en": "forward, in favor of",
+   "origin": "Latin"
+  },
+  {
+   "form": "pseudo-",
+   "meaning_cn": "假、伪",
+   "meaning_en": "false",
+   "origin": "Greek"
+  },
+  {
+   "form": "re-",
+   "meaning_cn": "再、重新、回",
+   "meaning_en": "again, back",
+   "origin": "Latin"
+  },
+  {
+   "form": "retro-",
+   "meaning_cn": "向后、回顾",
+   "meaning_en": "backward",
+   "origin": "Latin"
+  },
+  {
+   "form": "semi-",
+   "meaning_cn": "半",
+   "meaning_en": "half",
+   "origin": "Latin"
+  },
+  {
+   "form": "sub-",
+   "meaning_cn": "在下、次要",
+   "meaning_en": "under, below",
+   "origin": "Latin",
+   "variants": [
+    "suc-",
+    "sup-",
+    "suf-",
+    "sum-"
+   ]
+  },
+  {
+   "form": "super-",
+   "meaning_cn": "超级、在上",
+   "meaning_en": "above, beyond",
+   "origin": "Latin"
+  },
+  {
+   "form": "sur-",
+   "meaning_cn": "超过",
+   "meaning_en": "over, beyond",
+   "origin": "Latin"
+  },
+  {
+   "form": "syn-",
+   "meaning_cn": "共同、一起",
+   "meaning_en": "together, with",
+   "origin": "Greek"
+  },
+  {
+   "form": "tele-",
+   "meaning_cn": "远",
+   "meaning_en": "far, distant",
+   "origin": "Greek"
+  },
+  {
+   "form": "trans-",
+   "meaning_cn": "横过、贯穿",
+   "meaning_en": "across, through",
+   "origin": "Latin"
+  },
+  {
+   "form": "tri-",
+   "meaning_cn": "三",
+   "meaning_en": "three",
+   "origin": "Latin"
+  },
+  {
+   "form": "un-",
+   "meaning_cn": "不、相反",
+   "meaning_en": "not, reverse",
+   "origin": "English"
+  },
+  {
+   "form": "under-",
+   "meaning_cn": "在下、不足",
+   "meaning_en": "under, below",
+   "origin": "English"
+  },
+  {
+   "form": "uni-",
+   "meaning_cn": "单一",
+   "meaning_en": "one",
+   "origin": "Latin"
+  }
+ ],
+ "roots": [
+  {
+   "form": "act",
+   "meaning_cn": "做、行动",
+   "meaning_en": "do, act",
+   "origin": "Latin"
+  },
+  {
+   "form": "ag",
+   "meaning_cn": "做、驱使",
+   "meaning_en": "do, drive",
+   "origin": "Latin"
+  },
+  {
+   "form": "alt",
+   "meaning_cn": "高",
+   "meaning_en": "high",
+   "origin": "Latin"
+  },
+  {
+   "form": "am",
+   "meaning_cn": "爱",
+   "meaning_en": "love",
+   "origin": "Latin"
+  },
+  {
+   "form": "anim",
+   "meaning_cn": "生命、精神",
+   "meaning_en": "life, spirit",
+   "origin": "Latin"
+  },
+  {
+   "form": "ann/enn",
+   "meaning_cn": "年",
+   "meaning_en": "year",
+   "origin": "Latin"
+  },
+  {
+   "form": "aqu",
+   "meaning_cn": "水",
+   "meaning_en": "water",
+   "origin": "Latin"
+  },
+  {
+   "form": "arch",
+   "meaning_cn": "统治、首要",
+   "meaning_en": "rule, chief",
+   "origin": "Greek"
+  },
+  {
+   "form": "aud",
+   "meaning_cn": "听",
+   "meaning_en": "hear",
+   "origin": "Latin"
+  },
+  {
+   "form": "bell",
+   "meaning_cn": "战争",
+   "meaning_en": "war",
+   "origin": "Latin"
+  },
+  {
+   "form": "bio",
+   "meaning_cn": "生命",
+   "meaning_en": "life",
+   "origin": "Greek"
+  },
+  {
+   "form": "brev",
+   "meaning_cn": "短",
+   "meaning_en": "short",
+   "origin": "Latin",
+   "variants": [
+    "brie"
+   ]
+  },
+  {
+   "form": "cad/cas",
+   "meaning_cn": "落下",
+   "meaning_en": "fall",
+   "origin": "Latin",
+   "variants": [
+    "cay"
+   ]
+  },
+  {
+   "form": "cap",
+   "meaning_cn": "头、拿",
+   "meaning_en": "head, take",
+   "origin": "Latin"
+  },
+  {
+   "form": "carn",
+   "meaning_cn": "肉",
+   "meaning_en": "flesh",
+   "origin": "Latin"
+  },
+  {
+   "form": "ceed/cess",
+   "meaning_cn": "走、行",
+   "meaning_en": "go",
+   "origin": "Latin",
+   "variants": [
+    "ced"
+   ]
+  },
+  {
+   "form": "cept/ceiv",
+   "meaning_cn": "拿、取",
+   "meaning_en": "take",
+   "origin": "Latin"
+  },
+  {
+   "form": "cert",
+   "meaning_cn": "确定",
+   "meaning_en": "sure",
+   "origin": "Latin"
+  },
+  {
+   "form": "chron",
+   "meaning_cn": "时间",
+   "meaning_en": "time",
+   "origin": "Greek"
+  },
+  {
+   "form": "cid/cis",
+   "meaning_cn": "切、杀",
+   "meaning_en": "cut, kill",
+   "origin": "Latin"
+  },
+  {
+   "form": "claim",
+   "meaning_cn": "喊叫",
+   "meaning_en": "shout, cry out",
+   "origin": "Latin"
+  },
+  {
+   "form": "clin",
+   "meaning_cn": "倾斜",
+   "meaning_en": "lean",
+   "origin": "Latin"
+  },
+  {
+   "form": "cogn",
+   "meaning_cn": "认识、知道",
+   "meaning_en": "know",
+   "origin": "Latin"
+  },
+  {
+   "form": "cord",
+   "meaning_cn": "心",
+   "meaning_en": "heart",
+   "origin": "Latin"
+  },
+  {
+   "form": "corpor",
+   "meaning_cn": "身体",
+   "meaning_en": "body",
+   "origin": "Latin",
+   "variants": [
+    "corp"
+   ]
+  },
+  {
+   "form": "cred",
+   "meaning_cn": "相信",
+   "meaning_en": "believe, trust",
+   "origin": "Latin"
+  },
+  {
+   "form": "cur",
+   "meaning_cn": "跑、关心",
+   "meaning_en": "run, care",
+   "origin": "Latin"
+  },
+  {
+   "form": "cycl",
+   "meaning_cn": "圆、环",
+   "meaning_en": "circle",
+   "origin": "Greek"
+  },
+  {
+   "form": "dem",
+   "meaning_cn": "人民",
+   "meaning_en": "people",
+   "origin": "Greek"
+  },
+  {
+   "form": "dict",
+   "meaning_cn": "说",
+   "meaning_en": "say, speak",
+   "origin": "Latin"
+  },
+  {
+   "form": "doc",
+   "meaning_cn": "教",
+   "meaning_en": "teach",
+   "origin": "Latin"
+  },
+  {
+   "form": "don",
+   "meaning_cn": "给予",
+   "meaning_en": "give",
+   "origin": "Latin"
+  },
+  {
+   "form": "duc",
+   "meaning_cn": "引导",
+   "meaning_en": "lead",
+   "origin": "Latin"
+  },
+  {
+   "form": "fac",
+   "meaning_cn": "做、制造",
+   "meaning_en": "make, do",
+   "origin": "Latin"
+  },
+  {
+   "form": "fall",
+   "meaning_cn": "欺骗",
+   "meaning_en": "deceive",
+   "origin": "Latin",
+   "variants": [
+    "fals",
+    "fau"
+   ]
+  },
+  {
+   "form": "fer",
+   "meaning_cn": "带来、忍受",
+   "meaning_en": "carry, bear",
+   "origin": "Latin"
+  },
+  {
+   "form": "fid",
+   "meaning_cn": "相信",
+   "meaning_en": "trust, faith",
+   "origin": "Latin"
+  },
+  {
+   "form": "fin",
+   "meaning_cn": "结束、界限",
+   "meaning_en": "end, limit",
+   "origin": "Latin"
+  },
+  {
+   "form": "flex",
+   "meaning_cn": "弯曲",
+   "meaning_en": "bend",
+   "origin": "Latin",
+   "variants": [
+    "flect"
+   ]
+  },
+  {
+   "form": "flict",
+   "meaning_cn": "打击",
+   "meaning_en": "strike",
+   "origin": "Latin"
+  },
+  {
+   "form": "flu",
+   "meaning_cn": "流",
+   "meaning_en": "flow",
+   "origin": "Latin"
+  },
+  {
+   "form": "form",
+   "meaning_cn": "形状、形式",
+   "meaning_en": "shape, form",
+   "origin": "Latin"
+  },
+  {
+   "form": "fort",
+   "meaning_cn": "力量、幸运",
+   "meaning_en": "strong, fortune",
+   "origin": "Latin"
+  },
+  {
+   "form": "fract",
+   "meaning_cn": "碎、破",
+   "meaning_en": "break",
+   "origin": "Latin"
+  },
+  {
+   "form": "gen",
+   "meaning_cn": "产生、种类",
+   "meaning_en": "produce, kind",
+   "origin": "Latin"
+  },
+  {
+   "form": "grad",
+   "meaning_cn": "走、级",
+   "meaning_en": "step, grade",
+   "origin": "Latin"
+  },
+  {
+   "form": "graph",
+   "meaning_cn": "写、画",
+   "meaning_en": "write",
+   "origin": "Greek"
+  },
+  {
+   "form": "grat",
+   "meaning_cn": "感谢、喜悦",
+   "meaning_en": "pleasing, thankful",
+   "origin": "Latin",
+   "variants": [
+    "grac"
+   ]
+  },
+  {
+   "form": "grav",
+   "meaning_cn": "重、严肃",
+   "meaning_en": "heavy, serious",
+   "origin": "Latin"
+  },
+  {
+   "form": "greg",
+   "meaning_cn": "群体",
+   "meaning_en": "group, flock",
+   "origin": "Latin"
+  },
+  {
+   "form": "habit",
+   "meaning_cn": "居住、持有",
+   "meaning_en": "live, have",
+   "origin": "Latin"
+  },
+  {
+   "form": "her",
+   "meaning_cn": "黏附",
+   "meaning_en": "stick",
+   "origin": "Latin"
+  },
+  {
+   "form": "jac/ject",
+   "meaning_cn": "投掷",
+   "meaning_en": "throw",
+   "origin": "Latin"
+  },
+  {
+   "form": "jud",
+   "meaning_cn": "判断",
+   "meaning_en": "judge",
+   "origin": "Latin"
+  },
+  {
+   "form": "junct",
+   "meaning_cn": "连接",
+   "meaning_en": "join",
+   "origin": "Latin"
+  },
+  {
+   "form": "lect",
+   "meaning_cn": "选、读",
+   "meaning_en": "choose, read",
+   "origin": "Latin"
+  },
+  {
+   "form": "leg",
+   "meaning_cn": "法律、读",
+   "meaning_en": "law, read",
+   "origin": "Latin"
+  },
+  {
+   "form": "liber",
+   "meaning_cn": "自由",
+   "meaning_en": "free",
+   "origin": "Latin"
+  },
+  {
+   "form": "loc",
+   "meaning_cn": "地方",
+   "meaning_en": "place",
+   "origin": "Latin"
+  },
+  {
+   "form": "log",
+   "meaning_cn": "言语、学科",
+   "meaning_en": "word, study",
+   "origin": "Greek"
+  },
+  {
+   "form": "luc",
+   "meaning_cn": "光",
+   "meaning_en": "light",
+   "origin": "Latin"
+  },
+  {
+   "form": "mand",
+   "meaning_cn": "命令",
+   "meaning_en": "order, command",
+   "origin": "Latin"
+  },
+  {
+   "form": "man",
+   "meaning_cn": "手",
+   "meaning_en": "hand",
+   "origin": "Latin"
+  },
+  {
+   "form": "mem",
+   "meaning_cn": "记忆",
+   "meaning_en": "remember",
+   "origin": "Latin"
+  },
+  {
+   "form": "merg",
+   "meaning_cn": "沉没、浸入",
+   "meaning_en": "sink, plunge",
+   "origin": "Latin"
+  },
+  {
+   "form": "migr",
+   "meaning_cn": "迁移",
+   "meaning_en": "move",
+   "origin": "Latin"
+  },
+  {
+   "form": "mit",
+   "meaning_cn": "送",
+   "meaning_en": "send",
+   "origin": "Latin"
+  },
+  {
+   "form": "mob/mot",
+   "meaning_cn": "动",
+   "meaning_en": "move",
+   "origin": "Latin",
+   "variants": [
+    "mov"
+   ]
+  },
+  {
+   "form": "mod",
+   "meaning_cn": "方式、模式",
+   "meaning_en": "manner, measure",
+   "origin": "Latin"
+  },
+  {
+   "form": "mon",
+   "meaning_cn": "告诫、提醒",
+   "meaning_en": "warn, advise",
+   "origin": "Latin"
+  },
+  {
+   "form": "morph",
+   "meaning_cn": "形状",
+   "meaning_en": "shape, form",
+   "origin": "Greek"
+  },
+  {
+   "form": "mort",
+   "meaning_cn": "死",
+   "meaning_en": "death",
+   "origin": "Latin"
+  },
+  {
+   "form": "nat",
+   "meaning_cn": "出生",
+   "meaning_en": "born",
+   "origin": "Latin"
+  },
+  {
+   "form": "nav",
+   "meaning_cn": "船、航行",
+   "meaning_en": "ship",
+   "origin": "Latin"
+  },
+  {
+   "form": "neg",
+   "meaning_cn": "否认",
+   "meaning_en": "deny",
+   "origin": "Latin",
+   "variants": [
+    "den"
+   ]
+  },
+  {
+   "form": "nomin",
+   "meaning_cn": "名字",
+   "meaning_en": "name",
+   "origin": "Latin"
+  },
+  {
+   "form": "nov",
+   "meaning_cn": "新",
+   "meaning_en": "new",
+   "origin": "Latin"
+  },
+  {
+   "form": "numer",
+   "meaning_cn": "数字",
+   "meaning_en": "number",
+   "origin": "Latin"
+  },
+  {
+   "form": "oper",
+   "meaning_cn": "工作",
+   "meaning_en": "work",
+   "origin": "Latin"
+  },
+  {
+   "form": "pac",
+   "meaning_cn": "和平",
+   "meaning_en": "peace",
+   "origin": "Latin"
+  },
+  {
+   "form": "par",
+   "meaning_cn": "平等、准备",
+   "meaning_en": "equal, prepare",
+   "origin": "Latin"
+  },
+  {
+   "form": "path",
+   "meaning_cn": "感情、疾病",
+   "meaning_en": "feeling, suffering",
+   "origin": "Greek"
+  },
+  {
+   "form": "ped",
+   "meaning_cn": "脚、儿童",
+   "meaning_en": "foot, child",
+   "origin": "Latin/Greek"
+  },
+  {
+   "form": "pel",
+   "meaning_cn": "推、驱",
+   "meaning_en": "push, drive",
+   "origin": "Latin"
+  },
+  {
+   "form": "pend",
+   "meaning_cn": "悬挂、花费",
+   "meaning_en": "hang, weigh",
+   "origin": "Latin"
+  },
+  {
+   "form": "pet",
+   "meaning_cn": "寻求、追求",
+   "meaning_en": "seek",
+   "origin": "Latin"
+  },
+  {
+   "form": "phon",
+   "meaning_cn": "声音",
+   "meaning_en": "sound",
+   "origin": "Greek"
+  },
+  {
+   "form": "phot",
+   "meaning_cn": "光",
+   "meaning_en": "light",
+   "origin": "Greek"
+  },
+  {
+   "form": "plac",
+   "meaning_cn": "平静、取悦",
+   "meaning_en": "calm, please",
+   "origin": "Latin",
+   "variants": [
+    "pleas"
+   ]
+  },
+  {
+   "form": "pli",
+   "meaning_cn": "折叠",
+   "meaning_en": "fold",
+   "origin": "Latin"
+  },
+  {
+   "form": "pon/pos",
+   "meaning_cn": "放、放置",
+   "meaning_en": "put, place",
+   "origin": "Latin"
+  },
+  {
+   "form": "port",
+   "meaning_cn": "搬运、港口",
+   "meaning_en": "carry",
+   "origin": "Latin"
+  },
+  {
+   "form": "press",
+   "meaning_cn": "压",
+   "meaning_en": "press",
+   "origin": "Latin"
+  },
+  {
+   "form": "prim",
+   "meaning_cn": "第一",
+   "meaning_en": "first",
+   "origin": "Latin",
+   "variants": [
+    "prin"
+   ]
+  },
+  {
+   "form": "psych",
+   "meaning_cn": "心灵",
+   "meaning_en": "mind",
+   "origin": "Greek"
+  },
+  {
+   "form": "quest",
+   "meaning_cn": "问、寻求",
+   "meaning_en": "ask, seek",
+   "origin": "Latin"
+  },
+  {
+   "form": "radi",
+   "meaning_cn": "光线、辐射",
+   "meaning_en": "ray",
+   "origin": "Latin"
+  },
+  {
+   "form": "rect",
+   "meaning_cn": "正直、正确",
+   "meaning_en": "straight, right",
+   "origin": "Latin"
+  },
+  {
+   "form": "rupt",
+   "meaning_cn": "破裂",
+   "meaning_en": "break",
+   "origin": "Latin"
+  },
+  {
+   "form": "sanct",
+   "meaning_cn": "神圣",
+   "meaning_en": "holy",
+   "origin": "Latin",
+   "variants": [
+    "sacr"
+   ]
+  },
+  {
+   "form": "sci",
+   "meaning_cn": "知道",
+   "meaning_en": "know",
+   "origin": "Latin"
+  },
+  {
+   "form": "scrib/script",
+   "meaning_cn": "写",
+   "meaning_en": "write",
+   "origin": "Latin"
+  },
+  {
+   "form": "sect",
+   "meaning_cn": "切、割",
+   "meaning_en": "cut",
+   "origin": "Latin"
+  },
+  {
+   "form": "sens/sent",
+   "meaning_cn": "感觉",
+   "meaning_en": "feel, sense",
+   "origin": "Latin"
+  },
+  {
+   "form": "sequ",
+   "meaning_cn": "跟随",
+   "meaning_en": "follow",
+   "origin": "Latin"
+  },
+  {
+   "form": "serv",
+   "meaning_cn": "服务、保存",
+   "meaning_en": "serve, keep",
+   "origin": "Latin"
+  },
+  {
+   "form": "sign",
+   "meaning_cn": "标记、符号",
+   "meaning_en": "sign, mark",
+   "origin": "Latin"
+  },
+  {
+   "form": "simil",
+   "meaning_cn": "相似",
+   "meaning_en": "similar",
+   "origin": "Latin",
+   "variants": [
+    "simul"
+   ]
+  },
+  {
+   "form": "soc",
+   "meaning_cn": "社会、伙伴",
+   "meaning_en": "society, companion",
+   "origin": "Latin"
+  },
+  {
+   "form": "solv",
+   "meaning_cn": "解决、松开",
+   "meaning_en": "loosen, solve",
+   "origin": "Latin"
+  },
+  {
+   "form": "spect",
+   "meaning_cn": "看",
+   "meaning_en": "look",
+   "origin": "Latin"
+  },
+  {
+   "form": "spir",
+   "meaning_cn": "呼吸、精神",
+   "meaning_en": "breathe, spirit",
+   "origin": "Latin"
+  },
+  {
+   "form": "stat",
+   "meaning_cn": "站立、状态",
+   "meaning_en": "stand, state",
+   "origin": "Latin"
+  },
+  {
+   "form": "struct",
+   "meaning_cn": "建造",
+   "meaning_en": "build",
+   "origin": "Latin"
+  },
+  {
+   "form": "sum",
+   "meaning_cn": "最高、取",
+   "meaning_en": "highest, take",
+   "origin": "Latin"
+  },
+  {
+   "form": "tact",
+   "meaning_cn": "触摸",
+   "meaning_en": "touch",
+   "origin": "Latin",
+   "variants": [
+    "tang"
+   ]
+  },
+  {
+   "form": "tempor",
+   "meaning_cn": "时间",
+   "meaning_en": "time",
+   "origin": "Latin"
+  },
+  {
+   "form": "tend",
+   "meaning_cn": "伸展、趋向",
+   "meaning_en": "stretch, tend",
+   "origin": "Latin"
+  },
+  {
+   "form": "term",
+   "meaning_cn": "界限、终点",
+   "meaning_en": "limit, end",
+   "origin": "Latin"
+  },
+  {
+   "form": "text",
+   "meaning_cn": "编织、文本",
+   "meaning_en": "weave",
+   "origin": "Latin"
+  },
+  {
+   "form": "therm",
+   "meaning_cn": "热",
+   "meaning_en": "heat",
+   "origin": "Greek"
+  },
+  {
+   "form": "tort",
+   "meaning_cn": "扭曲",
+   "meaning_en": "twist",
+   "origin": "Latin"
+  },
+  {
+   "form": "tract",
+   "meaning_cn": "拉、拖",
+   "meaning_en": "pull, draw",
+   "origin": "Latin"
+  },
+  {
+   "form": "trib",
+   "meaning_cn": "给予",
+   "meaning_en": "give",
+   "origin": "Latin"
+  },
+  {
+   "form": "turb",
+   "meaning_cn": "搅动、混乱",
+   "meaning_en": "stir, confusion",
+   "origin": "Latin"
+  },
+  {
+   "form": "vac",
+   "meaning_cn": "空",
+   "meaning_en": "empty",
+   "origin": "Latin"
+  },
+  {
+   "form": "val",
+   "meaning_cn": "价值、强壮",
+   "meaning_en": "value, strong",
+   "origin": "Latin"
+  },
+  {
+   "form": "ven",
+   "meaning_cn": "来",
+   "meaning_en": "come",
+   "origin": "Latin"
+  },
+  {
+   "form": "ver",
+   "meaning_cn": "真实",
+   "meaning_en": "true",
+   "origin": "Latin"
+  },
+  {
+   "form": "verb",
+   "meaning_cn": "词语",
+   "meaning_en": "word",
+   "origin": "Latin"
+  },
+  {
+   "form": "vers",
+   "meaning_cn": "转",
+   "meaning_en": "turn",
+   "origin": "Latin"
+  },
+  {
+   "form": "vid/vis",
+   "meaning_cn": "看",
+   "meaning_en": "see",
+   "origin": "Latin"
+  },
+  {
+   "form": "vinc",
+   "meaning_cn": "胜利、征服",
+   "meaning_en": "conquer",
+   "origin": "Latin"
+  },
+  {
+   "form": "viv",
+   "meaning_cn": "活、生活",
+   "meaning_en": "live",
+   "origin": "Latin"
+  },
+  {
+   "form": "voc",
+   "meaning_cn": "叫喊、声音",
+   "meaning_en": "call, voice",
+   "origin": "Latin"
+  },
+  {
+   "form": "vol",
+   "meaning_cn": "意志、意愿",
+   "meaning_en": "will",
+   "origin": "Latin"
+  },
+  {
+   "form": "volv",
+   "meaning_cn": "卷、转",
+   "meaning_en": "roll",
+   "origin": "Latin"
+  }
+ ],
+ "suffixes": [
+  {
+   "form": "-able/-ible",
+   "meaning_cn": "能够……的",
+   "meaning_en": "able to be",
+   "origin": "Latin"
+  },
+  {
+   "form": "-age",
+   "meaning_cn": "集合、费用",
+   "meaning_en": "collection, charge",
+   "origin": "Latin"
+  },
+  {
+   "form": "-al/-ial",
+   "meaning_cn": "与……有关的",
+   "meaning_en": "relating to",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ance/-ence",
+   "meaning_cn": "状态、性质",
+   "meaning_en": "state, quality",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ant/-ent",
+   "meaning_cn": "……的人或物",
+   "meaning_en": "person or thing that",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ation/-tion",
+   "meaning_cn": "行为、结果",
+   "meaning_en": "action, result",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ion/-sion",
+   "meaning_cn": "行为、状态",
+   "meaning_en": "act, state",
+   "origin": "Latin"
+  },
+  {
+   "form": "-cy",
+   "meaning_cn": "状态、性质",
+   "meaning_en": "state, quality",
+   "origin": "Latin"
+  },
+  {
+   "form": "-dom",
+   "meaning_cn": "领域、状态",
+   "meaning_en": "realm, state",
+   "origin": "English"
+  },
+  {
+   "form": "-eer",
+   "meaning_cn": "……的人",
+   "meaning_en": "person concerned with",
+   "origin": "Latin"
+  },
+  {
+   "form": "-er/-or",
+   "meaning_cn": "……的人或物",
+   "meaning_en": "person or thing that",
+   "origin": "Latin"
+  },
+  {
+   "form": "-est",
+   "meaning_cn": "最",
+   "meaning_en": "most",
+   "origin": "English"
+  },
+  {
+   "form": "-ette",
+   "meaning_cn": "小",
+   "meaning_en": "small",
+   "origin": "French"
+  },
+  {
+   "form": "-ful",
+   "meaning_cn": "充满……的",
+   "meaning_en": "full of",
+   "origin": "English"
+  },
+  {
+   "form": "-hood",
+   "meaning_cn": "状态、身份",
+   "meaning_en": "state, condition",
+   "origin": "English"
+  },
+  {
+   "form": "-ic",
+   "meaning_cn": "与……有关的",
+   "meaning_en": "relating to",
+   "origin": "Greek"
+  },
+  {
+   "form": "-ify",
+   "meaning_cn": "使成为",
+   "meaning_en": "to make",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ism",
+   "meaning_cn": "主义、学说",
+   "meaning_en": "doctrine, belief",
+   "origin": "Greek"
+  },
+  {
+   "form": "-ist",
+   "meaning_cn": "……的人",
+   "meaning_en": "person who",
+   "origin": "Greek"
+  },
+  {
+   "form": "-ity",
+   "meaning_cn": "状态、性质",
+   "meaning_en": "state, quality",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ive",
+   "meaning_cn": "倾向于……的",
+   "meaning_en": "tending to",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ize",
+   "meaning_cn": "使成为",
+   "meaning_en": "to make",
+   "origin": "Greek"
+  },
+  {
+   "form": "-less",
+   "meaning_cn": "没有……的",
+   "meaning_en": "without",
+   "origin": "English"
+  },
+  {
+   "form": "-ly",
+   "meaning_cn": "以……方式",
+   "meaning_en": "in the manner of",
+   "origin": "English"
+  },
+  {
+   "form": "-ment",
+   "meaning_cn": "结果、行为",
+   "meaning_en": "result, action",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ness",
+   "meaning_cn": "状态、性质",
+   "meaning_en": "state, quality",
+   "origin": "English"
+  },
+  {
+   "form": "-ous",
+   "meaning_cn": "充满……的",
+   "meaning_en": "full of",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ship",
+   "meaning_cn": "状态、身份",
+   "meaning_en": "state, office",
+   "origin": "English"
+  },
+  {
+   "form": "-th",
+   "meaning_cn": "名词（抽象）",
+   "meaning_en": "abstract noun",
+   "origin": "English"
+  },
+  {
+   "form": "-ty",
+   "meaning_cn": "状态、性质",
+   "meaning_en": "state, quality",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ure",
+   "meaning_cn": "结果、行为",
+   "meaning_en": "result, action",
+   "origin": "Latin"
+  },
+  {
+   "form": "-ward",
+   "meaning_cn": "向……方向",
+   "meaning_en": "toward",
+   "origin": "English"
+  },
+  {
+   "form": "-y",
+   "meaning_cn": "充满……的、有点",
+   "meaning_en": "full of, somewhat",
+   "origin": "English"
+  }
+ ]
+}
