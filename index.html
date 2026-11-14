@@ -26,10 +26,10 @@ body{background:radial-gradient(1200px 700px at 70% -10%,#1B2655 0%,transparent 
 /* ---------- top nav ---------- */
 header{position:sticky;top:0;z-index:40;background:rgba(11,16,38,.82);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
 .nav-in{max-width:1000px;margin:0 auto;padding:0 18px;min-height:58px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.brand{font-family:var(--serif);color:var(--gold);font-size:17px;letter-spacing:.06em;margin-right:10px;white-space:nowrap}
-.brand small{font-family:var(--sans);font-size:11px;color:var(--txt2);letter-spacing:.18em;margin-left:6px}
+.brand{font-family:var(--serif);color:var(--gold);font-size:19px;font-weight:700;letter-spacing:.06em;margin-right:10px;white-space:nowrap;text-shadow:0 0 18px rgba(232,184,109,.35)}
+.brand small{font-family:var(--sans);font-size:11px;font-weight:400;color:var(--txt2);letter-spacing:.18em;margin-left:6px}
 nav.main{display:flex;gap:2px;flex:1}
-nav.main button{background:none;border:0;color:var(--txt2);font:inherit;font-size:15px;padding:9px 14px;border-radius:99px;cursor:pointer;min-height:44px}
+nav.main button{background:none;border:0;color:var(--txt2);font:inherit;font-size:15px;padding:9px 14px;border-radius:99px;cursor:pointer;min-height:44px;word-break:keep-all;line-height:1.35}
 nav.main button.on{color:#141A38;background:var(--gold);font-weight:600}
 .search-btn{background:rgba(253,251,245,.08);border:1px solid var(--line);color:var(--txt2);border-radius:99px;padding:9px 16px;font:inherit;font-size:13px;cursor:pointer;min-height:44px;display:flex;align-items:center;gap:8px}
 .search-btn kbd{font-family:var(--sans);font-size:11px;border:1px solid var(--line);border-radius:5px;padding:1px 5px;color:var(--txt3)}
@@ -266,7 +266,7 @@ footer.note{position:relative;z-index:1;text-align:center;color:var(--txt3);font
   .brand small{display:none}
   nav.main{display:none}
   .nav-in{padding-top:8px;padding-bottom:8px;row-gap:6px}
-  .brand{order:1;font-size:15px;margin-right:0;flex:1 1 auto}
+  .brand{order:1;font-size:16px;margin-right:0;flex:1 1 auto}
   .search-btn{order:2;margin-left:auto}
   .top-link{flex:1 1 40%;text-align:center;background:rgba(253,251,245,.06);border:1px solid var(--line);font-size:14px}
   .top-link.on{background:var(--gold)}
@@ -305,7 +305,7 @@ body[data-motion="soft"] *{animation-duration:.15s!important;transition-duration
     <div class="brand">富贵君疯狂英语·词根宇宙<small>WORD ROOTS UNIVERSE</small></div>
     <nav class="main" id="topnav">
       <button data-view="today" class="on">今日</button>
-      <button data-view="atlas">词根图鉴</button>
+      <button data-view="atlas">词根<wbr>图鉴</button>
       <button data-view="words">词库</button>
       <button data-view="practice">练习</button>
       <button data-view="me">我的</button>
