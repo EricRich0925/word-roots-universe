@@ -671,7 +671,7 @@ function renderToday(){
     +'<div style="margin-top:14px;display:flex;gap:8px"><button class="btn btn-dark" style="min-height:44px;padding:10px 20px" onclick="openRoot(\''+esc(tr.r)+'\')">看词根卡</button>'
     +(tr.ex.length?'<button class="btn btn-line" style="min-height:44px;padding:10px 18px" onclick="speak(\''+esc(tr.ex[0][0])+'\')">🔊 '+esc(tr.ex[0][0])+'</button>':'')+'</div>';
   /* 轨道 */
-  $('#trackGrid').innerHTML=TRACKS.map(t=>{const m=trackMastery(t.id);return '<button class="track'+(S.track===t.id?' on':'')+'" data-track="'+t.id+'"'+(t.id==='gaokao'?' style="border-color:#C62828"':'')+'><b>'+(t.id==='gaokao'?'🎯':'')+esc(t.label)+(S.track===t.id?' ✓ 当前':'')+'</b><div class="meta">'+t.total+' 词 · 其中 '+t.dec+' 个可拆解（词根 / 基词）</div><p>'+esc(t.intro)+'</p><div class="bar"><i style="width:'+m.pct+'%"></i></div><div class="meta" style="color:var(--txt2)">词根点亮 '+m.lit+' / '+m.tot+'（'+m.pct+'%）</div></button>';}).join('');
+  $('#trackGrid').innerHTML=TRACKS.map(t=>{const m=trackMastery(t.id);return '<button class="track'+(S.track===t.id?' on':'')+'" data-track="'+t.id+'"'+'><b>'+(t.id==='gaokao'?'🎯':'')+esc(t.label)+(S.track===t.id?' ✓ 当前':'')+'</b><div class="meta">'+t.total+' 词 · 其中 '+t.dec+' 个可拆解（词根 / 基词）</div><p>'+esc(t.intro)+'</p><div class="bar"><i style="width:'+m.pct+'%"></i></div><div class="meta" style="color:var(--txt2)">词根点亮 '+m.lit+' / '+m.tot+'（'+m.pct+'%）</div></button>';}).join('');
   $$('#trackGrid .track').forEach(b=>b.addEventListener('click',()=>{S.track=b.dataset.track;save();renderToday();toast('已切换到「'+TRACKS.find(t=>t.id===S.track).label+'」轨道');}));
 }
 $('#startSession').addEventListener('click',startLearnSession);
